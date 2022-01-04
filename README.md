@@ -20,3 +20,5 @@ Developed an automated script using Selenium, implemented Unit Test to test the 
 Testscript will load the vulnerable app in Chrome instance then change the cookie value on the webpage for Remote Code Execution.
 First Test case will inject malicious value  from payload1 in cookie to view all the files in app directory.
 Second Test case will inject malicious value from payload2 in cookie to get Reverse shell.
+
+Result: - An HTML report is generated with detailed output.

@@ -3,6 +3,7 @@ from uuid import uuid1
 from flask import Flask, make_response, request
 from base64 import b64encode, b64decode
 
+
 # The User Class which assigns a random ID to each connection
 class User:
     def __init__(self, uuid=None):
